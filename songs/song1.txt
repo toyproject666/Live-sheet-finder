@@ -1,0 +1,4 @@
+# Fill this template, then copy it to songs/ as a real song file.
+Title:
+Artist:
+Lyrics:
